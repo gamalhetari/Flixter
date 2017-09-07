@@ -50,6 +50,8 @@ gem "fog-aws"
 
 gem "mini_magick"
 
+gem 'carrierwave-aws'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
