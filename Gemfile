@@ -56,6 +56,8 @@ gem 'stripe'
 
 gem 'ranked-model'
 
+gem 'jquery-ui-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
