@@ -58,6 +58,8 @@ gem 'ranked-model'
 
 gem 'jquery-ui-rails'
 
+gem "font-awesome-rails"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
